@@ -11,6 +11,16 @@ Accept: application/json
 Content-Type: application/json
 ```
 
+**Request with customer context:**
+
+```
+POST https://mystore.com/graphql
+Authorization: Bearer <storefront_token>
+X-Customer-Access-Token: <access_token>
+Accept: application/json
+Content-Type: application/json
+```
+
 **Canonical URL endpoint:**
 
 ```
@@ -37,5 +47,3 @@ GET https://mystore.com/api/storefront/carts
 Accept: application/json
 Content-Type: application/json
 ```
-
-[Next](./03_AccountLevelAPIs.md)

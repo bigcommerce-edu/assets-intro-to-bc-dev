@@ -42,5 +42,3 @@ GET https://api-b2b.bigcommerce.com/api/v3/io/companies
 authToken: <access-token>
 Accept: application/json
 ```
-
-[Next](./02_StorefrontAPIs.md)

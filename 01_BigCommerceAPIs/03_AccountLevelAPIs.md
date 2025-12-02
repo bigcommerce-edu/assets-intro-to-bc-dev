@@ -10,5 +10,3 @@ X-Auth-Token: <access_token>
 Accept: application/json
 Content-Type: application/json
 ```
-
-[Next](../Module02_DevelopmentToolkit/02_Webhooks.md)
