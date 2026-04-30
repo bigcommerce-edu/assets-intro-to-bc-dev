@@ -13,6 +13,7 @@
 * [GraphQL Storefront API](https://docs.bigcommerce.com/developer/api-reference/graphql/storefront)
 * [Catalyst](https://docs.bigcommerce.com/developer/docs/storefront/catalyst)
 * [Create a Storefront Token](https://docs.bigcommerce.com/developer/api-reference/rest/admin/authentication-apis/storefront-api-tokens)
+* [Create a Private Token](https://docs.bigcommerce.com/developer/api-reference/rest/admin/authentication-apis/storefront-api-tokens/private-api-token/create-private-token)
 * [Create a Customer Impersonation Token](https://docs.bigcommerce.com/developer/api-reference/rest/admin/authentication-apis/storefront-api-tokens/customer-impersonation-token/create-token-with-customer-impersonation)
 * [GraphQL Authentication](https://docs.bigcommerce.com/developer/docs/storefront/guides/customer-authentication)
 * [B2B GraphQL Storefront API](https://api-b2b.bigcommerce.com/graphql/playground)
